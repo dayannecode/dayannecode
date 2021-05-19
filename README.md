@@ -1,10 +1,10 @@
 ## 💜 Olá, meu nome é <strong>{Dayanne}!</strong>
 
-> Engenheira de software, apaixonada por tecnologia e seus 
+> Sou engenheira de software e adoro codificar, arquitetar, criar e construir coisas tanto quanto liderar projetos. Tenho paixão por compartilhar minha experiência e conhecimento na indústria de dev 
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Sou pioneira em Startups e amo programção que envolva a area financeira e medicinal, atualmente eu vesti a camisa do desafio e estou embarcando em novas aventuras.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 Atualmente criando projetos em Java e Dart, você pode aprender junto comigo e tirar suas duvidas em coding lives que faço na twitch.
 
 ----
 
@@ -18,7 +18,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
