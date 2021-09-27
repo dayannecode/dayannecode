@@ -2,9 +2,9 @@
 
 > Sou engenheira de software e adoro codificar, arquitetar, criar e construir coisas tanto quanto liderar projetos. Tenho paixão por compartilhar minha experiência e conhecimento na indústria de dev 
 
-🔭 Sou pioneira em Startups e amo programção que envolva a area financeira e medicinal, atualmente eu vesti a camisa do desafio e estou embarcando em novas aventuras.
+🔭 Sou pioneira em Startups e amo programção, atualmente eu vesti a camisa do desafio e estou embarcando em novas aventuras.
 
-💬 Atualmente criando projetos em Java e Dart, você pode aprender junto comigo e tirar suas duvidas em coding lives que faço na twitch.
+💬 Atualmente criando projetos em Java, node e Kotlin, você pode aprender junto comigo e tirar suas duvidas em coding lives que faço na twitch.
 
 ----
 
