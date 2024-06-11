@@ -4,7 +4,7 @@
 
 🔭 Sou pioneira em Startups e amo programção, atualmente eu vesti a camisa do desafio e estou embarcando em novas aventuras.
 
-💬 Atualmente criando projetos em Java, node e Kotlin, você pode aprender junto comigo e tirar suas duvidas em coding lives que faço na twitch.
+💬 Atualmente criando projetos em Java, .NET, Angular e node
 
 ----
 
